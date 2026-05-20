@@ -1,0 +1,3 @@
+Ejercicio 16 - BC5
+Crear un formulario con un botón que, al pulsarlo, valide los campos de texto y muestre un mensaje de error si algún campo está vacío.
+Al ejecutar la aplicación se abre una ventana de 350x180 píxeles con el título "Ejercicio 16 - Validación de formulario". Contiene dos campos de texto (nombre y apellido) y un botón "Enviar". Al pulsar el botón se valida que ambos campos estén rellenos: si alguno está vacío, se imprime por consola un mensaje de error indicando cuál o cuáles faltan; si ambos tienen contenido, se imprimen los datos introducidos. El layout está construido con un GridPane con 10 píxeles de separación y 20 de padding.
